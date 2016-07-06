@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/nrkn/domon-parser#readme",
   "dependencies": {
-    "domon-treeadapter": "^0.1.1",
+    "domon-treeadapter": "^0.1.2",
     "parse5": "^2.1.5"
   }
 }
