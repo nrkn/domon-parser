@@ -1,6 +1,6 @@
 {
   "name": "domon-parser",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parse HTML strings into the DOMON format",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/nrkn/domon-parser#readme",
   "dependencies": {
-    "domon-treeadapter": "^0.1.0",
+    "domon-treeadapter": "^0.1.1",
     "parse5": "^2.1.5"
   }
 }
